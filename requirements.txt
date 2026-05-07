@@ -1,0 +1,7 @@
+TensorFlow
+NumPy
+matplotlib
+scikit-learn
+editdistance
+
+Jupyter Notebook / Google Colab
